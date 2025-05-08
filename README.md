@@ -23,7 +23,7 @@
       <b>Tampilan ketika memasukkan nama dan belum mengklik tombol Input nama.</b>
     </td>
     <td align="center">
-      <img src="2_after.png" width="200"/><br>
+      <img src="after_nama.png" width="200"/><br>
       <b>Tampilan ketika sesudah mengklik tombol Input nama.</b>
     </td>
   </tr>
