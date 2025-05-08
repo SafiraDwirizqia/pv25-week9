@@ -1,4 +1,4 @@
-# # Assignment Week 9
+# Assignment Week 9
 
 <table align="center">
   <tr>
